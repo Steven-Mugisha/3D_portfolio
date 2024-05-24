@@ -15,8 +15,8 @@ import {
   git,
   figma,
   docker,
-  starbucks,
-  tesla,
+  uog,
+  fft,
   shopify,
   carrent,
   jobit,
@@ -117,7 +117,7 @@ const experiences = [
   {
     title: "Data Engineer Intern",
     company_name: "University of Guelph School of Engineering",
-    icon: starbucks,
+    icon: uog,
     iconBg: "#383E56",
     date: "Jan 2022 - June 2022",
     points: [
@@ -126,10 +126,10 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Agri-food Data Canada",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    title: "Software Developer Intern",
+    company_name: "Agri-Food Data Canada",
+    icon: fft,
+    iconBg: "#383E56",
     date: "June 2022 - Dec 2022",
     points: [
       "Designed a UI using React to compose schema models from a tabular approach, driving the website to an engagement of up to 45% increase.",
@@ -137,9 +137,9 @@ const experiences = [
     ],
   },
   {
-    title: "Backend Developer",
-    company_name: "Food From Thought",
-    icon: shopify,
+    title: "Software Developer",
+    company_name: "Agri-Food Data Strategy",
+    icon: fft,
     iconBg: "#383E56",
     date: "Jan 2023 - Present",
     points: [
