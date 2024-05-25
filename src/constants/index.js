@@ -17,7 +17,6 @@ import {
   docker,
   uog,
   fft,
-  shopify,
   carrent,
   jobit,
   tripguide,
