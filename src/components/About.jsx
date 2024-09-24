@@ -49,14 +49,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Steven is an experienced and versatile software developer passionate about crafting innovative solutions.
-        With a solid background in computer science and extensive hands-on experience, he brings a unique blend
-        of technical expertise and creative problem-solving skills to every project. He specializes in full-stack
-        development and is proficient in a wide range of programming languages and frameworks, including but not limited
-        to Java, Python, JavaScript, and Rust. His expertise extends to web development, mobile app development, and database design.
-        He has a strong track record of delivering high-quality software solutions on time and within budget.
-        He is adept at collaborating with cross-functional teams, communicating complex technical concepts to non-technical
-        stakeholders, and adapting to evolving project requirements. Constantly staying up-to-date with the latest industry
-        trends and best practices, he is committed to continuous learning and professional growth.
+        With a solid background in computer science and extensive hands-on experience, he brings a unique blend.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((services, index) => (
